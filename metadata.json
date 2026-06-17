@@ -1,0 +1,8 @@
+{
+  "name": "棒人間 vs 鬼 弾幕ゲーム",
+  "description": "鬼の放つ激しい弾幕を、巧みな操作で避けるスタイリッシュな棒人間弾幕シューティングゲーム。複数の弾幕フェーズや難易度、爽快な効果音を楽しめます。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
